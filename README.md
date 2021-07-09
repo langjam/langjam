@@ -16,8 +16,13 @@ While the most important part of any jam is fun, it's also fun to have a good co
 
 ## Languages you can use
 
-You can code in any programming language you'd like to create your project, so long as the languages are part of a standard Debian/Ubuntu or Arch distro. Please limit build steps of the project to three or less steps.
+You can code in any programming language you'd like to create your project, so long as the language is part of a standard Debian/Ubuntu or Arch distro. Please limit build steps of the project to three or less steps.
 
 ## What you provide with the project
 
 Along with your project, which may be a compiler or an interpreter, you'll want to provide a set of examples showing how the language works as well as some documentation explaining the language itself so that new users can try it out.
+
+## What libraries you can use
+
+You can use any libraries you'd like to help build your project - lexical analysers, parser generators, codgen framesworks like llvm, you name it.
+
