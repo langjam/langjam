@@ -10,6 +10,10 @@ At this point, the team begins their projects. They can use personal repos to de
 
 Each jam is 48 hours long, beginning at 7pm UK time on Friday and ending at 7pm UK time on Sunday.
 
+## What to build
+
+Each jam will have a theme for that weekend. Your projects should build on that theme and show that theme in their final design. You can build an interpreter or a compiler, so long as it can run or build examples of code in the programming language you create.
+
 ## Who can enter
 
 Anyone, from any age, from anywhere in the world. You can join by yourself or as part of a group.
