@@ -10,6 +10,10 @@ At this point, the team begins their projects. They can use personal repos to de
 
 Each jam is 48 hours long, beginning at 7pm UK time on Friday and ending at 7pm UK time on Sunday.
 
+## Who can enter
+
+Anyone, from any age, from anywhere in the world. You can join by yourself or as part of a group.
+
 ## How projects are judged
 
 While the most important part of any jam is fun, it's also fun to have a good competition. Each team's projects will be judged based on feedback from other participants and onlookers who try the project out and vote on how they like best. Of these, JT will pick their top picks and create a video, showing off the winners.
@@ -26,3 +30,6 @@ Along with your project, which may be a compiler or an interpreter, you'll want 
 
 You can use any libraries you'd like to help build your project - lexical analysers, parser generators, codgen framesworks like llvm, you name it.
 
+## Finding a group
+
+If you are looking to find a group or chat with other participants, we'll have a public discord that you can join in the week leading up to the first jam.
