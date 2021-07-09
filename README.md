@@ -20,7 +20,7 @@ Anyone, from any age, from anywhere in the world. You can join by yourself or as
 
 ## How projects are judged
 
-While the most important part of any jam is to enjoy it, it's also exciting to have a good competition. Each team's projects will be judged based on feedback from other participants and onlookers who try the project out and vote on how they like best based on two criteria:
+While the most important part of any jam is to enjoy it, it's also exciting to have a good competition. Each team's projects will be judged based on feedback from other participants and onlookers who try the project out and vote on how they like best based on three criteria:
 
 * Creativity
 * Uniqueness
