@@ -2,7 +2,7 @@
 
 Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game jams, where teams create a video game in a weekend. In Lang Jam, you and your teammates will create a programming language based on the theme for that jam.
 
-The first Lang Jam will be held on 7pm UK on 20th of August going to 7pm on 22nd of August. Check back here for more info.
+The first Lang Jam will be held on Friday the 20th of August, starting at 7pm UK time. It will run for 48 hours, ending at 7pm on Sunday the 22nd of August. Check back here for more info.
 
 ## How it works
 
