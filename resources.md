@@ -5,7 +5,14 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 ## Tutorials
 
 * [The super tiny compiler](https://github.com/thejameskyle/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js)
-* 
+
+## Overviews
+
+* [Parsing in Python](https://tomassetti.me/parsing-in-python/)
+
+## Tools
+
+* [Pest](https://github.com/pest-parser/pest) and [Nom](https://github.com/Geal/nom) - libraries for helping you write a parser in Rust
 
 ## Books
 
