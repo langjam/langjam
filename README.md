@@ -32,7 +32,7 @@ Of these, JT will pick their top picks and create a video showing off the winner
 
 ## Languages you can use
 
-You can code in any programming language you'd like to create your project, so long as the language is part of a standard Debian/Ubuntu or Arch distro. Please limit build steps of the project to three or less steps.
+You can code in any programming language you'd like to create your project, so long as the language is part of a standard Debian/Ubuntu or Arch distro (or one of the language-specific repos, like Rust's cargo). Please limit build steps of the project to three or less steps.
 
 ## What you provide with the project
 
