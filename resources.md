@@ -6,6 +6,7 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 
 * [The super tiny compiler](https://github.com/thejameskyle/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js)
 * [Introduction to Pest in Rust](https://www.youtube.com/watch?v=VYBi9an29Hw) and [Using Pest to make a language](https://www.youtube.com/watch?v=COwHHUshkN0)
+* [How to Write a Lisp Interpreter in Python](https://norvig.com/lispy.html)
 
 ## Overviews
 
@@ -23,3 +24,4 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [Programming Language Pragmatics](https://www.elsevier.com/books/programming-language-pragmatics/scott/978-0-12-410409-9) - A textbook that goes into some of the thinking behind different styles of programming languages
 * [The Dragon book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) - A classic, though also quite the tome
 * [Flex and Bison](https://web.iitd.ac.in/~sumeet/flex__bison.pdf) - A book explaining use of flex and bison from the very basics to create parsers.
+* [Build Your Own Lisp](http://www.buildyourownlisp.com/) - Learn C and build your own programming language in 1000 lines of code. Freely available online.
