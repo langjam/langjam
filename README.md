@@ -40,7 +40,7 @@ Along with your project, which may be a compiler or an interpreter, you'll want 
 
 ## What libraries you can use
 
-You can use any libraries you'd like to help build your project - lexical analysers, parser generators, codgen framesworks like llvm, you name it.
+You can use any libraries you'd like to help build your project - lexical analysers, parser generators, codgen frameworks like llvm, you name it.
 
 ## Finding a group
 
