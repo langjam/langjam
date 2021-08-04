@@ -9,6 +9,8 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [How to Write a Lisp Interpreter in Python](https://norvig.com/lispy.html)
 * [Parsing with OCamllex and Menhir](https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)
 * [How to make your papers run](https://www.tweag.io/blog/2019-11-28-PCF-makam-spec/) - tutorial on using using Makam to define prototype evaluators
+* [Creating Languages in Racket](https://cacm.acm.org/magazines/2012/1/144809-creating-languages-in-racket/fulltext) by Matthew Flatt Communications of the ACM, January 2012 [code](https://github.com/spdegabrielle/flatt-languages)
+* [7 lines of code, 3 minutes: Implement a programming language from scratch](https://matt.might.net/articles/implementing-a-programming-language/)
 
 ## Overviews
 
@@ -20,6 +22,9 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [List of langdev libraries for Rust](https://github.com/Kixiron/rust-langdev/)
 * [Nanopass](https://nanopass.org/) - embedded DSL for Scheme and Racket for defining multipass compilers
 * [Makam](https://github.com/astampoulis/makam) - metalanguage useful for prototyping languages
+* [https://github.com/racket-templates/lang](Template for a Racket language in Racket) - A working example of a #lang language you can use as a starting point for creating your own #lang language. (Template based on `xlang` A language of combinators and numeric constants, implemented in Racket.)
+* [Sham: A DSL for runtime code generation in Racket](https://github.com/rjnw/sham) - use this to target WASM or LLVM
+
 
 ## Books
 
@@ -30,3 +35,7 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [The Dragon book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) - A classic, though also quite the tome
 * [Flex and Bison](https://web.iitd.ac.in/~sumeet/flex__bison.pdf) - A book explaining use of flex and bison from the very basics to create parsers.
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) - Learn C and build your own programming language in 1000 lines of code. Freely available online.
+* [Beautiful Racket: an introduction to language-oriented programming using Racket](https://beautifulracket.com) by Matthew Butterick
+* [Programming Languages: Application and Interpretation](https://www.plai.org) by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/). Freely available online.
+*
+
