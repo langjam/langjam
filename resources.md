@@ -24,7 +24,7 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [Makam](https://github.com/astampoulis/makam) - metalanguage useful for prototyping languages
 * [Template for a Racket language in Racket](https://github.com/racket-templates/lang) - A working example of a #lang language you can use as a starting point for creating your own #lang language. (Template based on `xlang` A language of combinators and numeric constants, implemented in Racket.)
 * [Sham: A DSL for runtime code generation in Racket](https://github.com/rjnw/sham) - use this to target WASM or LLVM
-
+* [RLMeta](http://rickardlindberg.me/projects/rlmeta/) - RLMeta is a programming language in which you write grammars. Grammars have rules that specify how to match objects from an input stream and specify what should happen when objects are matched. It can be used to write lexers, parsers, tree transformers, code generators, and similar tools. The RLMeta compiler is implemented in RLMeta itself which makes it a metacompiler. (There are multiple versions of RLMeta that all live in blog posts and the theory behind them is quite well documented.)
 
 ## Books
 
