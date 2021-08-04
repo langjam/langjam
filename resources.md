@@ -22,7 +22,7 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [List of langdev libraries for Rust](https://github.com/Kixiron/rust-langdev/)
 * [Nanopass](https://nanopass.org/) - embedded DSL for Scheme and Racket for defining multipass compilers
 * [Makam](https://github.com/astampoulis/makam) - metalanguage useful for prototyping languages
-* [https://github.com/racket-templates/lang](Template for a Racket language in Racket) - A working example of a #lang language you can use as a starting point for creating your own #lang language. (Template based on `xlang` A language of combinators and numeric constants, implemented in Racket.)
+* [Template for a Racket language in Racket](https://github.com/racket-templates/lang) - A working example of a #lang language you can use as a starting point for creating your own #lang language. (Template based on `xlang` A language of combinators and numeric constants, implemented in Racket.)
 * [Sham: A DSL for runtime code generation in Racket](https://github.com/rjnw/sham) - use this to target WASM or LLVM
 
 
@@ -37,5 +37,4 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) - Learn C and build your own programming language in 1000 lines of code. Freely available online.
 * [Beautiful Racket: an introduction to language-oriented programming using Racket](https://beautifulracket.com) by Matthew Butterick
 * [Programming Languages: Application and Interpretation](https://www.plai.org) by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/). Freely available online.
-*
 
