@@ -7,6 +7,8 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [The super tiny compiler](https://github.com/thejameskyle/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js)
 * [Introduction to Pest in Rust](https://www.youtube.com/watch?v=VYBi9an29Hw) and [Using Pest to make a language](https://www.youtube.com/watch?v=COwHHUshkN0)
 * [How to Write a Lisp Interpreter in Python](https://norvig.com/lispy.html)
+* [Parsing with OCamllex and Menhir](https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)
+* [How to make your papers run](https://www.tweag.io/blog/2019-11-28-PCF-makam-spec/) - tutorial on using using Makam to define prototype evaluators
 
 ## Overviews
 
@@ -15,6 +17,9 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 ## Tools
 
 * [Pest](https://github.com/pest-parser/pest), [Nom](https://github.com/Geal/nom), [lalrpop](https://github.com/lalrpop/lalrpop) - libraries for helping you write a parser in Rust
+* [List of langdev libraries for Rust](https://github.com/Kixiron/rust-langdev/)
+* [Nanopass](https://nanopass.org/) - embedded DSL for Scheme and Racket for defining multipass compilers
+* [Makam](https://github.com/astampoulis/makam) - metalanguage useful for prototyping languages
 
 ## Books
 
