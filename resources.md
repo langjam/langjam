@@ -17,7 +17,7 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 ## Tools
 
 * [Pest](https://github.com/pest-parser/pest), [Nom](https://github.com/Geal/nom), [lalrpop](https://github.com/lalrpop/lalrpop) - libraries for helping you write a parser in Rust
-* [List of landev libraries for Rust](https://github.com/Kixiron/rust-langdev/)
+* [List of langdev libraries for Rust](https://github.com/Kixiron/rust-langdev/)
 * [Nanopass](https://nanopass.org/) - embedded DSL for Scheme and Racket for defining multipass compilers
 * [Makam](https://github.com/astampoulis/makam) - metalanguage useful for prototyping languages
 
