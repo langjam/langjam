@@ -6,7 +6,7 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 
 * [The super tiny compiler](https://github.com/thejameskyle/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js)
 * [Introduction to Pest in Rust](https://www.youtube.com/watch?v=VYBi9an29Hw) and [Using Pest to make a language](https://www.youtube.com/watch?v=COwHHUshkN0)
-* [How to Write a Lisp Interpreter in Python](https://norvig.com/lispy.html)
+* [How to Write a Lisp Interpreter in Python](https://norvig.com/lispy.html) ([Advanced / Part 2](http://norvig.com/lispy2.html))
 * [Parsing with OCamllex and Menhir](https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)
 * [How to make your papers run](https://www.tweag.io/blog/2019-11-28-PCF-makam-spec/) - tutorial on using using Makam to define prototype evaluators
 * [Creating Languages in Racket](https://cacm.acm.org/magazines/2012/1/144809-creating-languages-in-racket/fulltext) by Matthew Flatt Communications of the ACM, January 2012 [code](https://github.com/spdegabrielle/flatt-languages)
