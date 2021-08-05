@@ -11,6 +11,7 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [How to make your papers run](https://www.tweag.io/blog/2019-11-28-PCF-makam-spec/) - tutorial on using using Makam to define prototype evaluators
 * [Creating Languages in Racket](https://cacm.acm.org/magazines/2012/1/144809-creating-languages-in-racket/fulltext) by Matthew Flatt Communications of the ACM, January 2012 [code](https://github.com/spdegabrielle/flatt-languages)
 * [7 lines of code, 3 minutes: Implement a programming language from scratch](https://matt.might.net/articles/implementing-a-programming-language/)
+* [5 Tips For Making a Programming Language from JT](https://youtu.be/XHn7kQJ_V24)
 
 ## Overviews
 
