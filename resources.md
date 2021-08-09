@@ -41,3 +41,5 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [Beautiful Racket: an introduction to language-oriented programming using Racket](https://beautifulracket.com) by Matthew Butterick
 * [Programming Languages: Application and Interpretation](https://www.plai.org) by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/). Freely available online.
 
+## Other
+* [Write you a programming language](https://github.com/stereobooster/write-you-a-programming-language) - huge collection of small programming languages that you can implement in a relatively small amount of time for educational purposes as well as other useful resources
