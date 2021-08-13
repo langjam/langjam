@@ -43,3 +43,4 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 
 ## Other
 * [Write you a programming language](https://github.com/stereobooster/write-you-a-programming-language) - huge collection of small programming languages that you can implement in a relatively small amount of time for educational purposes as well as other useful resources
+* [PL resources](https://bernsteinbear.com/pl-resources/) - a collection of compiler, runtime, and runtime optimization resources
