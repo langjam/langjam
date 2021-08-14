@@ -54,4 +54,4 @@ You can have a team of just yourself or any number team members.
 
 ## Licensing
 
-You retain the rights to your project. The only rights I ask for are to be able to host the code in a repo that's part of this GitHub organization, to use the code when I'm evaluating winners and, if you're a winner, to make a video about your project.
+You retain the rights to your project. The only rights I ask for are to be able to host the code in a repo that's part of this GitHub organization, for me and others to use the code when evaluating winners and, if you're a winner, to make a video about your project.
