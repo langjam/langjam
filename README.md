@@ -47,3 +47,7 @@ You can use any libraries you'd like to help build your project - lexical analys
 ## Finding a group
 
 If you are looking to find a group or chat with other participants, we'll have a public discord that you can join in the week leading up to the first jam.
+
+## Team size
+
+You can have a team of just yourself or any number team members.
