@@ -28,6 +28,7 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [Sham: A DSL for runtime code generation in Racket](https://github.com/rjnw/sham) - use this to target WASM or LLVM
 * [RLMeta](http://rickardlindberg.me/projects/rlmeta/) - RLMeta is a programming language in which you write grammars. Grammars have rules that specify how to match objects from an input stream and specify what should happen when objects are matched. It can be used to write lexers, parsers, tree transformers, code generators, and similar tools. The RLMeta compiler is implemented in RLMeta itself which makes it a metacompiler. (There are multiple versions of RLMeta that all live in blog posts and the theory behind them is quite well documented.)
 * [Online Intel 8086 emulator](https://yjdoc2.github.io/8086-emulator-web/compile) - a web-based assembler IDE with live debugging
+* [Ohm](https://github.com/harc/ohm) - a parsing toolkit for JavaScript, with an [online editor/visualizer](https://ohmlang.github.io/editor/) for debugging grammars.
 
 ## Books
 
@@ -40,6 +41,7 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) - Learn C and build your own programming language in 1000 lines of code. Freely available online.
 * [Beautiful Racket: an introduction to language-oriented programming using Racket](https://beautifulracket.com) by Matthew Butterick
 * [Programming Languages: Application and Interpretation](https://www.plai.org) by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/). Freely available online.
+* [Writing a Compiler in Go](https://compilerbook.com/) by [Thorsten Ball](https://thorstenball.com/).
 
 ## Other
 * [Write you a programming language](https://github.com/stereobooster/write-you-a-programming-language) - huge collection of small programming languages that you can implement in a relatively small amount of time for educational purposes as well as other useful resources
