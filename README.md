@@ -4,6 +4,8 @@ Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game
 
 The first Lang Jam will be held on Friday the 20th of August, starting at 7pm UK time (Timezone translator: https://dateful.com/eventlink/1037709179). It will run for 48 hours, ending at 7pm on Sunday the 22nd of August. Check back here for more info.
 
+**Update:** The jam is now live! The theme is "first-class comments". You can participate by joining the [jam repo](https://github.com/langjam/jam0001).
+
 If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/GhfDSU8Y).
 
 ## How it works
