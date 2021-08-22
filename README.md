@@ -48,7 +48,7 @@ You can use any libraries you'd like to help build your project - lexical analys
 
 ## Finding a group
 
-If you are looking to find a group or chat with other participants, we'll have a public discord that you can join in the week leading up to the first jam. **Update:** The [discord](https://discord.gg/GhfDSU8Y) is now open.
+If you are looking to find a group or chat with other participants, we'll have a public discord that you can join in the week leading up to the first jam. **Update:** The [discord](https://discord.gg/BmY6UUUU) is now open.
 
 ## Team size
 
