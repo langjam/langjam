@@ -2,9 +2,7 @@
 
 Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game jams, where teams create a video game in a weekend. In Lang Jam, you and your teammates will create a programming language based on the theme for that jam.
 
-The first Lang Jam will be held on Friday the 20th of August, starting at 7pm UK time (Timezone translator: https://dateful.com/eventlink/1037709179). It will run for 48 hours, ending at 7pm on Sunday the 22nd of August. Check back here for more info.
-
-**Update:** The jam is now live! The theme is "first-class comments". You can participate by joining the [jam repo](https://github.com/langjam/jam0001).
+The first Lang Jam was held on Friday the 20th of August, starting at 7pm UK time (Timezone translator: https://dateful.com/eventlink/1037709179) and ran for 48 hours, ending at 7pm on Sunday the 22nd of August. The theme was "first-class comments". You can participate by joining the [jam repo](https://github.com/langjam/jam0001). You can [watch a video of the winners](https://www.youtube.com/watch?v=j7VAw8UfMeA).
 
 If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/BmY6UUUU).
 
