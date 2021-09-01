@@ -4,7 +4,7 @@ Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game
 
 The first Lang Jam was held on Friday the 20th of August, starting at 7pm UK time (Timezone translator: https://dateful.com/eventlink/1037709179) and ran for 48 hours, ending at 7pm on Sunday the 22nd of August. The theme was "first-class comments". You can participate by joining the [jam repo](https://github.com/langjam/jam0001). You can [watch a video of the winners](https://www.youtube.com/watch?v=j7VAw8UfMeA).
 
-If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/BmY6UUUU).
+If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/YxuJPVuyQ9).
 
 ## How it works
 
@@ -46,7 +46,7 @@ You can use any libraries you'd like to help build your project - lexical analys
 
 ## Finding a group
 
-If you are looking to find a group or chat with other participants, we'll have a public discord that you can join in the week leading up to the first jam. **Update:** The [discord](https://discord.gg/BmY6UUUU) is now open.
+If you are looking to find a group or chat with other participants, we'll have a public discord that you can join in the week leading up to the first jam. **Update:** The [discord](https://discord.gg/YxuJPVuyQ9) is now open.
 
 ## Team size
 
