@@ -2,9 +2,11 @@
 
 Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game jams, where teams create a video game in a weekend. In Lang Jam, you and your teammates will create a programming language based on the theme for that jam.
 
-#0002 - The next Lang Jam will be held the weekend of 4th-5th of December. More details coming soon.
+The next Lang Jam (#0002) will be held the weekend of 4th-5th of December. More details coming soon.
 
-#0001 - The first Lang Jam was held on Friday the 20th of August, starting at 7pm UK time (Timezone translator: https://dateful.com/eventlink/1037709179) and ran for 48 hours, ending at 7pm on Sunday the 22nd of August. The theme was "first-class comments". You can participate by joining the [jam repo](https://github.com/langjam/jam0001). You can [watch a video of the winners](https://www.youtube.com/watch?v=j7VAw8UfMeA).
+Past Lang Jams:
+
+- #0001 - Theme: "First-class comments".  The first Lang Jam was held on Friday the 20th of August, for 48 hours (starting [7pm UK time](https://dateful.com/eventlink/1037709179), and ending at 7pm on Sunday the 22nd of August). Submissions can be found in the [jam repo](https://github.com/langjam/jam0001). You can [watch a video of the winners](https://www.youtube.com/watch?v=j7VAw8UfMeA).
 
 If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/YxuJPVuyQ9).
 
@@ -48,7 +50,7 @@ You can use any libraries you'd like to help build your project - lexical analys
 
 ## Finding a group
 
-If you are looking to find a group or chat with other participants, we'll have a public discord that you can join in the week leading up to the first jam. **Update:** The [discord](https://discord.gg/YxuJPVuyQ9) is now open.
+If you are looking to find a group or chat with other participants, we have a [discord](https://discord.gg/YxuJPVuyQ9).
 
 ## Team size
 
