@@ -2,7 +2,7 @@
 
 Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game jams, where teams create a video game in a weekend. In Lang Jam, you and your teammates will create a programming language based on the theme for that jam.
 
-#0002 - The next Lang Jam will be held the weekend of 4th-5th of December. More details coming soon.
+#0002 - The next Lang Jam will be held on Friday the 3rd of December, starting at [7pm UK time](https://everytimezone.com/?t=61a95e00,474) and run for 7 days, ending on 7pm on the following Friday (the 10th of December). In this time, you'll be allowed 48 total hours to work on code and 12 total hours to work on documentation and presentation.
 
 #0001 - The first Lang Jam was held on Friday the 20th of August, starting at 7pm UK time (Timezone translator: https://dateful.com/eventlink/1037709179) and ran for 48 hours, ending at 7pm on Sunday the 22nd of August. The theme was "first-class comments". You can participate by joining the [jam repo](https://github.com/langjam/jam0001). You can [watch a video of the winners](https://www.youtube.com/watch?v=j7VAw8UfMeA).
 
@@ -10,15 +10,17 @@ If you're interested in working with others on the jam, or want to chat, we also
 
 ## How it works
 
-At the start of each jam, a new repo will be created on GitHub that will hold the projects. Each team will create a PR that will add a directory for their team to the jam repo based on the team template, including the GitHub handles of the team members.
+Each team will submit a PR that will create a directory named after their language which includes the project source code, build instructions, documentation, and any presentation about the language. In this directory, there will also be a file that includes the GitHub handles of the team members. The PR for each project needs to be submitted before the end of the jam. We will provide a directory template each team can use.
 
-At this point, the team begins their projects. They can use personal repos to develop ideas before they're ready to show them publically, but to count as part of the jam, the team's final code needs to be submitted as a PR before the jam's cutoff time.
+A team can use personal repos to develop ideas before they're ready to show them publically, but to count as part of the jam, the team's final code needs to be submitted as a PR before the jam's cutoff time.
 
-Each jam is 48 hours long, beginning at 7pm UK time on Friday and ending at 7pm UK time on Sunday.
+The jam will run for 7 days. In this week, your team will be allowed 48 total hours for coding on the code and 12 total hours of work on documentation and presentation. This is to allow people to more flexibly schedule participation in the jam during the week. For teams, this means each team member gets a total of 48 hours for coding and 12 total hours for documentation and presentation.
+
+(note: the first jam was 48 hours long, and it began at 7pm UK time on Friday and ended at 7pm UK time on Sunday.)
 
 ## What to build
 
-Each jam will have a theme for that weekend. Your projects should build on that theme and show that theme in their final design. You can build an interpreter or a compiler, so long as it can run or build examples of code in the programming language you create.
+Each jam will have a theme. Your projects should build on that theme and show that theme in their final design. You can build an interpreter or a compiler, so long as it can run or build examples of code in the programming language you create.
 
 ## Who can enter
 
