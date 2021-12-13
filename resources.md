@@ -48,6 +48,21 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [PL resources](https://bernsteinbear.com/pl-resources/) - a collection of compiler, runtime, and runtime optimization resources
 * [Context Free](https://www.youtube.com/channel/UCS4FAVeYW_IaZqAbqhlvxlA) - a YouTube channel dedicated to programming languages
 
+### Get Things Done
+* [Minimum Viable Product visuals](https://www.solutionsiq.com/resource/blog-post/you-cant-make-a-skateboard-into-a-car/) - alternative visuals to the famous "skateboard into a car" analogy by Henrik Kniberg that best visualize minimum viable products
+  - [Iterative development in a painting](https://www.jpattonassociates.com/dont_know_what_i_want/) - visualizes difference between incremental develpoment and iterative development using the Mona Lisa as an example
+  - [Agile-Stage-Gate Method](https://www.sciencedirect.com/science/article/abs/pii/S0019850116301894) - fast, responsive idea-to-launch hybrid model which combines XP Agile Methodology and the Stage-Gate model for more flexible design and improved communication/productivity
+* [MoSCoW Method](https://railsware.com/blog/moscow-prioritization/) - the easy and productive way to prioritize tasks; developed by Dai Clegg in 1994 as part of rapid application development (RAD)
+  - [Tag daily todos](https://dsebastien.medium.com/tagging-your-daily-todos-when-moscow-is-not-enough-75e402a7b8ef) - MoSCoW planning method which includes one highlight to focus on each day
+
+### Jam Tips
+* [Agile approach to Game Jams](https://www.gamedeveloper.com/disciplines/game-jams-an-agil-ish-approach) - tips on how to complete a Game Jam with agile techniques like iterative development, brainstorming, and working in 4 hour sprints
+* [Solodev Game Jam tips](https://christinalassheikki.com/2020/10/06/tips-for-solodev-game-jamming/) - tips from Christina Lassheikki's first solodev game jam experience that might help with LangJams
+* [10 Game Jam Strategies](https://betterprogramming.pub/10-game-jam-strategies-92c88c81f834) - top general strategies to finish a Game Jam
+
+## Past Events
+* [Repl.it Programming Language Jam & Grant](https://blog.replit.com/langjam) - August 2020 marked the first programming language jam in recorded history; 21 day hackathon in where the winning team received a grant worth $10000 with small cash prizes to category winners -> [winner blog post](https://blog.replit.com/pljamresults)
+
 ## Libraries
 
 ### Rust
