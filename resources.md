@@ -50,6 +50,7 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 
 ### Get Things Done
 * [Minimum Viable Product visuals](https://www.solutionsiq.com/resource/blog-post/you-cant-make-a-skateboard-into-a-car/) - alternative visuals to the famous "skateboard into a car" analogy by Henrik Kniberg that best visualize minimum viable products
+  - [Iterative and incremental development in a bicycle](https://m.dotdev.co/the-agile-bicycle-829a83b18e7) - an improved analogy about how a bicycle is made iteratively and incrementally
   - [Iterative development in a painting](https://www.jpattonassociates.com/dont_know_what_i_want/) - visualizes difference between incremental develpoment and iterative development using the Mona Lisa as an example
   - [Agile-Stage-Gate Method](https://www.sciencedirect.com/science/article/abs/pii/S0019850116301894) - fast, responsive idea-to-launch hybrid model which combines XP Agile Methodology and the Stage-Gate model for more flexible design and improved communication/productivity
 * [MoSCoW Method](https://railsware.com/blog/moscow-prioritization/) - the easy and productive way to prioritize tasks; developed by Dai Clegg in 1994 as part of rapid application development (RAD)
