@@ -2,7 +2,7 @@
 
 Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game jams, where teams create a video game in a weekend. In Lang Jam, you and your teammates will create a programming language based on the theme for that jam.
 
-The next Lang Jam (#0002) is live! It started on **Friday the 3rd of December, starting at [7pm UK time](https://everytimezone.com/?t=61a95e00,474)** and runs for 7 days, ending on [7pm on the following Friday](https://everytimezone.com/?t=61b29880,474) (the 10th of December). In this time, you'll be allowed 48 total hours to work on code and 12 total hours to work on documentation and presentation. You can submit projects [here](https://github.com/langjam/jam0002).
+The next Lang Jam (#0002) is done! It started on **Friday the 3rd of December, starting at [7pm UK time](https://everytimezone.com/?t=61a95e00,474)** and ran for 7 days, ending on [7pm on the following Friday](https://everytimezone.com/?t=61b29880,474) (the 10th of December). In this time, you were allowed 48 total hours to work on code and 12 total hours to work on documentation and presentation. Projects are [here](https://github.com/langjam/jam0002).
 
 If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/YxuJPVuyQ9).
 
