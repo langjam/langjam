@@ -4,7 +4,7 @@ Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game
 
 ## Upcoming Lang Jam
 
-The next Lang Jam (#0003) will be the weekend of **July 23-24, 2022**. The theme is ... yet to be announced! If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/YxuJPVuyQ9).
+The next Lang Jam (#0003) will be the weekend of **July 23-24, 2022**. The theme is ... yet to be announced! If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/Stt48NYNbN).
 
 ## Past Lang Jams
 
@@ -54,7 +54,7 @@ You can use any libraries you'd like to help build your project - lexical analys
 
 ## Finding a group
 
-If you are looking to find a group or chat with other participants, we have a [discord](https://discord.gg/YxuJPVuyQ9).
+If you are looking to find a group or chat with other participants, we have a [discord](https://discord.gg/Stt48NYNbN).
 
 ## Team size
 
