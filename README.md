@@ -4,7 +4,7 @@ Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game
 
 The next Lang Jam (#0003) will be the weekend of July 23-24, 2022. The theme is ... yet to be announced! If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/YxuJPVuyQ9).
 
-# PastLang Jams
+## Past Lang Jams
 
 #0002 - The second Lang Jam started on **Friday the 3rd of December at [7pm UK time](https://everytimezone.com/?t=61a95e00,474)** and ran for 7 days, ending on [7pm on the following Friday](https://everytimezone.com/?t=61b29880,474) (the 10th of December). In this time, you were allowed 48 total hours to work on code and 12 total hours to work on documentation and presentation. Projects are [here](https://github.com/langjam/jam0002).
 
