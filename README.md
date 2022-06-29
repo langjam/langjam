@@ -2,11 +2,11 @@
 
 Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game jams, where teams create a video game in a weekend. In Lang Jam, you and your teammates will create a programming language based on the theme for that jam.
 
-The next Lang Jam (#0002) is done! It started on **Friday the 3rd of December, starting at [7pm UK time](https://everytimezone.com/?t=61a95e00,474)** and ran for 7 days, ending on [7pm on the following Friday](https://everytimezone.com/?t=61b29880,474) (the 10th of December). In this time, you were allowed 48 total hours to work on code and 12 total hours to work on documentation and presentation. Projects are [here](https://github.com/langjam/jam0002).
+The next Lang Jam (#0003) will be the weekend of July 23-24, 2022. The theme is ... yet to be announced! If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/YxuJPVuyQ9).
 
-If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/YxuJPVuyQ9).
+# PastLang Jams
 
-Past lang jams:
+#0002 - The second Lang Jam started on **Friday the 3rd of December at [7pm UK time](https://everytimezone.com/?t=61a95e00,474)** and ran for 7 days, ending on [7pm on the following Friday](https://everytimezone.com/?t=61b29880,474) (the 10th of December). In this time, you were allowed 48 total hours to work on code and 12 total hours to work on documentation and presentation. Projects are [here](https://github.com/langjam/jam0002).
 
 #0001 - The theme was "first-class comments". The first Lang Jam was held on Friday the 20th of August, starting at 7pm UK time (Timezone translator: https://dateful.com/eventlink/1037709179) and ran for 48 hours, ending at 7pm on Sunday the 22nd of August. Submissions can be found in the [jam repo](https://github.com/langjam/jam0001). You can [watch a video of the winners](https://www.youtube.com/watch?v=j7VAw8UfMeA).
 
