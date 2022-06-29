@@ -2,6 +2,8 @@
 
 Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game jams, where teams create a video game in a weekend. In Lang Jam, you and your teammates will create a programming language based on the theme for that jam.
 
+## Upcoming Lang Jam
+
 The next Lang Jam (#0003) will be the weekend of **July 23-24, 2022**. The theme is ... yet to be announced! If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/YxuJPVuyQ9).
 
 ## Past Lang Jams
