@@ -45,7 +45,7 @@ Of these, JT will pick their top picks and create a video showing off the winner
 
 ## Languages you can use
 
-You can code in any programming language you'd like to create your project, so long as the language is part of the Debian/Ubuntu or Arch package repo (or one of the language-specific repos, like Rust's cargo). Please limit build steps of the project to three or less steps.
+You can code in any programming language you'd like to create your project, so long as the language is part of the Debian/Ubuntu or Arch package repo (or one of the language-specific repos, like Rust's cargo). Please limit build steps of the project to three or fewer.
 
 ## What you provide with the project
 
@@ -53,7 +53,7 @@ Along with your project, which may be a compiler or an interpreter, you'll want 
 
 ## What libraries you can use
 
-You can use any libraries you'd like to help build your project - lexical analysers, parser generators, codgen frameworks like llvm, you name it.
+You can use any libraries you'd like to help build your project - lexical analysers, parser generators, codegen frameworks like LLVM, you name it.
 
 ## Finding a group
 
