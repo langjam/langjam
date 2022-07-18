@@ -23,9 +23,7 @@ Each team will submit a PR that will create a directory named after their langua
 
 A team can use personal repos to develop ideas before they're ready to show them publically, but to count as part of the jam, the team's final code needs to be submitted as a PR before the jam's cutoff time.
 
-The jam will run for 7 days. In this week, your team will be allowed 48 total hours for coding on the code and 12 total hours of work on documentation and presentation. This is to allow people to more flexibly schedule participation in the jam during the week. For teams, this means each team member gets a total of 48 hours for coding and 12 total hours for documentation and presentation.
-
-(note: the first jam was 48 hours long, and it began at 7pm UK time on Friday and ended at 7pm UK time on Sunday.)
+For the length of time the jam will run, including the start and end times, please see the [Upcoming Lang Jam](#upcoming-lang-jam) section above. This will list all the specific rules about that jam.
 
 ## What to build
 
