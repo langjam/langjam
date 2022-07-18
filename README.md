@@ -19,7 +19,7 @@ Lang Jam #3 will start on Friday the 22nd of July at [9pm UK time](https://every
 
 ## How it works
 
-Each team will submit a PR that will create a directory named after their language which includes the project source code, build instructions, documentation, and any presentation about the language. In this directory, there will also be a file that includes the GitHub handles of the team members. The PR for each project needs to be submitted before the end of the jam. We will provide a directory template each team can use.
+Each team will submit a PR that will create a directory named after their language which includes the project source code and build instructions for the language. Note: as part of Lang Jam 3, you'll also submit a link to the website you'll use for documentation. In this directory, there will also be a file that includes the GitHub handles of the team members. The PR for each project needs to be submitted before the end of the jam. We will provide a directory template each team can use.
 
 A team can use personal repos to develop ideas before they're ready to show them publically, but to count as part of the jam, the team's final code needs to be submitted as a PR before the jam's cutoff time.
 
