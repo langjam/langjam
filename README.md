@@ -2,9 +2,9 @@
 
 Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game jams, where teams create a video game in a weekend. In Lang Jam, you and your teammates will create a programming language based on the theme for that jam.
 
-## Upcoming Lang Jam
+## Current Lang Jam
 
-The next [Lang Jam (#0003)](https://github.com/langjam/jam0003) will be the weekend of **July 23-24, 2022**. The theme is ... Beautiful Assembly! If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/Stt48NYNbN).
+The current lang jam is [Lang Jam (#0003)](https://github.com/langjam/jam0003), running the weekend of **July 23-24, 2022**. The theme is ... Beautiful Assembly! If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/Stt48NYNbN).
 
 Lang Jam #3 has begun! It started on Friday the 22nd of July at [9pm UK time](https://everytimezone.com/?t=62d9e880,4b0) and will run in two parts:
 
