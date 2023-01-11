@@ -4,14 +4,15 @@ Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game
 
 ## Current Lang Jam
 
-The current lang jam is [Lang Jam (#0003)](https://github.com/langjam/jam0003), running the weekend of **July 23-24, 2022**. The theme is ... Beautiful Assembly! If you're interested in working with others on the jam, or want to chat, we also have a [discord](https://discord.gg/Stt48NYNbN).
+=No jam currently planned. Maybe Feb 2023?=
 
-Lang Jam #3 has begun! It started on Friday the 22nd of July at [9pm UK time](https://everytimezone.com/?t=62d9e880,4b0) and will run in two parts:
+## Past Lang Jams
+
+#0003 - The third lang jam theme was "Beautiful Assembly". The third lang jam started on the started on Friday the 22nd of July at [9pm UK time](https://everytimezone.com/?t=62d9e880,4b0) and will run in two parts:
 
 * Part 1: You have 48 hours to complete the code to your project and submit your PR to the repo (which will be announced when the theme is announced at the start of the jam). This will close on the 24th of July at [9pm UK time](https://everytimezone.com/?t=62dc8b80,4b0)
 * Part 2: You have 12 total hours over the following 48 hours to work on the website and documentation for your project. Be sure to link to this website in the project you submit in part 1. This ends on the 26th of July at [9pm UK time](https://everytimezone.com/?t=62dddd00,a50)
 
-## Past Lang Jams
 
 #0002 - The second Lang Jam started on Friday the 3rd of December at [7pm UK time](https://everytimezone.com/?t=61a95e00,474) and ran for 7 days, ending on [7pm on the following Friday](https://everytimezone.com/?t=61b29880,474) (the 10th of December). In this time, you were allowed 48 total hours to work on code and 12 total hours to work on documentation and presentation. Projects are [here](https://github.com/langjam/jam0002).
 
