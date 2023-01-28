@@ -4,7 +4,7 @@ Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game
 
 ## Current Lang Jam
 
-=No jam currently planned. Maybe Feb 2023?=
+The next jam is 18-19 Feb 2023. More details to come.
 
 ## Past Lang Jams
 
