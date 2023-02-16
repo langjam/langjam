@@ -6,8 +6,8 @@ Welcome to Lang Jam, a weekend coding jam. It carries much of the spirit of game
 
 The next jam is 17-19 Feb 2023. It will begin at [9pm UK time](https://everytimezone.com/?t=63eec380,4ec). The theme will be announced when the jam starts.
 
-* Part 1: You have 48 hours to complete the code to your project and submit your PR to the repo (which will be announced when the theme is announced at the start of the jam). This will close on the 24th of July at [9pm UK time](https://everytimezone.com/?t=62dc8b80,4b0)
-* Part 2: You have 12 total hours over the following 48 hours to work on the website and documentation for your project. Be sure to link to this website in the project you submit in part 1. This ends on the 26th of July at [9pm UK time](https://everytimezone.com/?t=62dddd00,a50)
+* Part 1: You have 48 hours to complete the code to your project and submit your PR to the repo (which will be announced when the theme is announced at the start of the jam). This will close on the 19th of Feb at [9pm UK time](https://everytimezone.com/?t=63f01500,a8c)
+* Part 2: You have 12 total hours over the following 48 hours to work on the website and documentation for your project. Be sure to link to this website in the project you submit in part 1. This ends on the 21st of Feb at [9pm UK time](https://everytimezone.com/?t=63f2b800,a8c)
 
 ## Past Lang Jams
 
